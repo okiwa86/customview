@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Animation.iml" filepath="$PROJECT_DIR$/.idea/Animation.iml" />
+      <module fileurl="file://$APPLICATION_HOME_DIR$/Projects/customview/appcompat/appcompat.iml" filepath="$APPLICATION_HOME_DIR$/Projects/customview/appcompat/appcompat.iml" />
     </modules>
   </component>
 </project>

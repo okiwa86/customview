@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="android-support-v7-appcompat">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/Projects/customview/appcompat/bin/android-support-v7-appcompat.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
